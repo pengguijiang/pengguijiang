@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">美女聊天</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">发送</string>
+    <string name="enter">聊天</string>
+    
+    <string-array name="welcome_tips">
+        <item>您好，我是范冰冰</item>
+        <item>hello,我是冰冰酱</item>
+        <item>您的时间很宝贵，快来和我说话吧！</item>
+        <item>请问您需要什么服务？</item>
+    </string-array>
+   
+
+</resources>
